@@ -1,4 +1,4 @@
-# Desafio de Projeto da DIO no curso "Formação Java". Criando um Banco Digital com Java e Orientação a Objetos.
+# Desafio de Projeto da DIO Criando um Banco Digital com Java e Orientação a Objetos.
 
 Desafio implementado visando este cenário:
 
